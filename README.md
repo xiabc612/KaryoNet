@@ -22,7 +22,7 @@ https://download.pytorch.org/models/resnet50-19c8e357.pth
 
 For training KaryoNet for R-band chromosome, please running:
     
-    python train_Rband.py --model resnet50_GFIM_DAM --model_name R_model_resnet50_GFIM_DAM
+    python train_Rband.py --model resnet50_MFIM_DAM --model_name R_model_resnet50_MFIM_DAM
 
 For training KaryoNet for G-band chromosome, please running:
     
